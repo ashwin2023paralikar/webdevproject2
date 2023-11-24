@@ -1,0 +1,254 @@
+/*Code for CSS*/
+#bio
+{
+    height: 300px;
+    width: 550px;
+    font-size: 20px;
+    margin-top: -300px;
+    line-height: 38px;
+    font-family:roboto;
+    color:#000000;
+}
+table{
+   font-family: roboto;
+   font-size: 20px;
+}
+#header1
+{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#link1
+{
+    background-color:chartreuse;
+}
+#link2
+{
+    background-color: chartreuse;
+}
+#link3
+{
+    background-color: chartreuse;
+}
+#link4
+{
+    background-color: chartreuse;
+}
+#logo1
+{
+    width: 300px;
+}
+#search1
+{
+    margin-left: 600px;
+}
+body
+{
+    background-color:white;
+}
+section
+{
+    margin-left: 200px;
+}
+h1
+{
+font-family:DM sans;
+}
+h2
+{
+    
+    font-family:DM sans;
+}
+#img1
+{
+    margin-left: 680px;
+}
+footer
+{
+    column-count: 3;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: #000000;
+    font-family:roboto;
+}
+footer a
+{
+text-decoration: none;
+color: white;
+}
+header
+{
+    
+    display: flex;
+    font-family:roboto;
+}
+nav
+{
+    display:flex;
+    margin-left: 400px;
+    margin-top: 10px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+
+}
+
+#edu_det
+{
+ margin-top: 50px;   
+ margin-left: 200px;
+}
+#skills
+{
+    text-align: left;
+    margin-left: 200px;
+}
+#button2
+{
+    font-size: 20px;
+margin-left: 400px;
+    height:50px;
+    width:130px;
+    margin-top: 170px;
+    background-color:chartreuse;
+    color: white;
+    font-family:roboto;
+    border: none;
+}
+#button2:hover
+{
+    background-color:brown;
+    border: none;
+}
+#button1:hover
+{
+background-color: red;
+}
+
+#button3:hover
+{
+background-color: red;
+}
+#form1
+{
+    margin-left: 400px;
+
+}
+ul
+{
+    list-style: none;
+}
+#container1
+{
+margin-left: 70px;
+margin-top: 10px;
+}
+#box9
+{
+    font-family: roboto;
+    font-size: 20px;
+    line-height: 15px;
+}
+#box10
+{
+    font-family: roboto;
+    font-size: 20px;
+    line-height: 15px;
+}
+#box11
+{
+    margin-left: 70px;
+}
+#box4 
+{
+   margin-left: 70px;
+}
+#box2
+{
+    margin-left: 70px;
+}
+#box6 
+{
+    margin-left: 40px;
+}
+#box8 
+{
+    margin-left: 40px;
+}
+#box9
+{
+    font-size: 20px;
+    line-height: 40px;
+}
+#box10
+{
+    font-size: 20px;
+    line-height: 40px;
+}
+#text1
+{
+    color:#000000;
+}
+#text3
+{
+    width:280px;
+    height:200px;
+}
+#button1
+{
+    margin-left: 100px;
+   height:40px;
+   width:100px;
+   background-color:chartreuse;
+   border:none;
+   font-size:20px;
+   color:#000000;
+}
+#button3
+{
+    margin-left: 40px;
+   height:40px;
+   width:100px;
+   background-color:chartreuse;
+   border:none;
+   font-size:20px;
+   color:#000000;
+}
+#box12
+{
+    display:flex;
+}
+#box13
+{
+    display:flex;
+}
+#box14
+{
+    display:flex;
+}
+#box15
+{
+    display:flex;
+}
+#box16
+{
+    display:flex;
+}
+#label1
+{
+    font-size: 18px;
+
+}
+#label3
+{
+    font-size: 18px;
+
+}
+#label4
+{
+    font-size: 18px;
+
+}
