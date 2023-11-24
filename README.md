@@ -20,3 +20,13 @@ JavaScript:- Javascript is used to fetch weather data.
 ## Software
 **Visual Studio Code**
 **Google Chrome**
+## Using the Website
+Home:- Home page consist a brief bio and profile picture.
+
+About:- The about page consist of my education,work experiences,hobbies etc
+
+Project:- The project page consist of my academic projects.
+
+Contact:-You cand send message to me by using contact page.
+
+Resume:- Resume file opens in new tab.It can be saved to pc.
